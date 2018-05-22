@@ -1,4 +1,4 @@
-## FIZZBUZZ ##
+## FIZZBUZZ ## 76 characters
 def fizzbuzz
 puts (1..100).map {|i|(fb = [
   ["Fizz"][i % 3], 

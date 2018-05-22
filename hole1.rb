@@ -3,7 +3,7 @@
 ###SHORT VERSION### = 15 characters
 
 def sum(x)
- x.inject(0,:+)
+x.inject(0,:+)
 end
 puts sum([24, 55, 66, 102])
 

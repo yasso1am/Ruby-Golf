@@ -1,5 +1,5 @@
 require 'pry'
-### MULTIPLES ###
+### MULTIPLES ### - 27 characters
 ### The method takes in a number and a max value then finds all multiples of the number up to the max value.
 def find(x, y)
   a = x

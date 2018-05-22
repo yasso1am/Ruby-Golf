@@ -1,5 +1,5 @@
 require 'pry'
-#HOLE 6: String Counter
+## HOLE 6: String Counter ## - 26 characters
 ## Given a string and a sub string count the number of times the substring occurs in the string and print the number to the console.
 
 def count(a, b)
